@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'rubDocs'
+copyright = '2023, RS'
+author = 'Rubén Sosa'
 
 release = '0.1'
 version = '0.1.0'
